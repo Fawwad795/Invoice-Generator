@@ -1,1 +1,1 @@
-Hello World!
+Project for semester 1 in C.
