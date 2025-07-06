@@ -16,6 +16,20 @@ This Supermarket Invoice Generator is a comprehensive system designed for cashie
 - **Input Validation**: Comprehensive error handling for all user inputs
 - **Time-based Shift Detection**: Automatically detects cashier's shift based on system time
 
+## Screenshots
+
+### Main Interface
+![Main Interface](Screenshots/Screenshot%202025-07-06%20133505.png)
+
+### Functionalities
+![Functionalities](Screenshots/Screenshot%202025-07-06%20133551.png)
+
+### Invoice Manual Creation
+![Invoice Manual Creation](Screenshots/Screenshot%202025-07-06%20133811.png)
+
+### Invoice Generation
+![Invoice Generation](Screenshots/Screenshot%202025-07-06%20134046.png)
+
 ## Technologies Used
 
 - **Language**: C
@@ -49,43 +63,6 @@ This Supermarket Invoice Generator is a comprehensive system designed for cashie
 - **String Manipulation**: Advanced string handling and validation
 - **Error Handling**: Input validation and graceful error recovery
 - **Time and Date Processing**: Working with system time functions
-
-
-## How to Use
-
-1. Compile the program using a C compiler:
-   ```
-   gcc Project.c -o Project
-   ```
-
-2. Run the executable:
-   ```
-   ./Project
-   ```
-
-3. Follow the on-screen instructions:
-   - Enter cashier details (ID and name)
-   - Choose from available options:
-     1. Generate Invoice
-     2. Show Previous Invoices
-     3. Search Invoice
-     4. Delete Invoice
-     5. Return to Home Page
-
-## Screenshots
-
-### Main Interface
-![Main Interface](Screenshots/Screenshot%202025-07-06%20133505.png)
-
-### Functionalities
-![Functionalities](Screenshots/Screenshot%202025-07-06%20133551.png)
-
-### Invoice Manual Creation
-![Invoice Manual Creation](Screenshots/Screenshot%202025-07-06%20133811.png)
-
-### Invoice Generation
-![Invoice Generation](Screenshots/Screenshot%202025-07-06%20134046.png)
-
 
 ## Author
 
